@@ -1,5 +1,10 @@
+import { Emojis } from "./components/Emoji";
+
 export function App() {
   return (
-    <h1>Hello</h1>
+    <section className="app">
+      <h1>FEEDBACK - EMOJI</h1>
+      <Emojis />
+    </section>
   )
 }
