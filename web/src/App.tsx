@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Emojis } from "./components/Emoji";
-import { EnumEmoji } from "./enum/enum-emoji";
 
 export function App() {
   const [emoji, setEmoji] = useState("");
