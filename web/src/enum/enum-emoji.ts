@@ -5,5 +5,4 @@ export enum EnumEmoji {
     WOW = "Uou",
     BAD = "Ruim",
     TERRIBLE = "Terrível",
-    NONE = "None"
 }
