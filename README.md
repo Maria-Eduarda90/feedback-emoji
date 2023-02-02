@@ -10,12 +10,12 @@
 
 ## Tecnologias
 
-- ReactJS
+- React
 - Sass
 - Typescript
 - Axios
 - React-Toastify
-- NodeJS
+- Node
 - Express
 - Prisma
 - Sqlite
